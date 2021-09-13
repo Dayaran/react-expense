@@ -1,0 +1,170 @@
+{
+  "-MjO-bAL1y2PjhceKsUR" : {
+    "id" : 1,
+    "method" : "Cash",
+    "name" : "WeekDeposit",
+    "price" : "5",
+    "type" : "deposit",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO07JZITmR6YxGyXKi" : {
+    "id" : 2,
+    "method" : "Cash",
+    "name" : "HomeNeeds",
+    "price" : "5",
+    "type" : "deposit",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO0GtyIFOL43W21Q0Q" : {
+    "id" : 3,
+    "method" : "Cash",
+    "name" : "Dad Pooja",
+    "price" : "500",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO0s-hF4smuSWNSacp" : {
+    "id" : 4,
+    "method" : "PayTM",
+    "name" : "Diesel",
+    "price" : "1000",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO14VoZHd1WfrOd9SP" : {
+    "id" : 5,
+    "method" : "PayTM",
+    "name" : "TollChargesAttibele",
+    "price" : "30",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO1A8RJMwIl13WGO4J" : {
+    "id" : 6,
+    "method" : "PayTM",
+    "name" : "BTraditional-Oil",
+    "price" : "770",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO1J-o70Lz6RVUIV3_" : {
+    "id" : 7,
+    "method" : "PayTM",
+    "name" : "Bread-Yukthi",
+    "price" : "60",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO1Q6ZDMysKUbXAaHc" : {
+    "id" : 8,
+    "method" : "PhonePe",
+    "name" : "PulsarPetrol",
+    "price" : "100",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO1_RgFUXMoHbRPVd1" : {
+    "id" : 9,
+    "method" : "PhonePe",
+    "name" : "SundayChicken",
+    "price" : "138",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO1lWJVYSATMpXTEpd" : {
+    "id" : 10,
+    "method" : "PhonePe",
+    "name" : "LaughingBuddha",
+    "price" : "350",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO1rm3UzdLRW1GeCkr" : {
+    "id" : 11,
+    "method" : "PhonePe",
+    "name" : "RelianceFresh",
+    "price" : "611",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO1xR3Pp9FsJ6hOHLj" : {
+    "id" : 12,
+    "method" : "PhonePe",
+    "name" : "CarServiceAltenator",
+    "price" : "9100",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO261nydVIVYXcWkHI" : {
+    "id" : 13,
+    "method" : "Cash",
+    "name" : "KavithaPocket Money",
+    "price" : "2000",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO2ccSa6MwCiTL8RZs" : {
+    "id" : 15,
+    "method" : "Cash",
+    "name" : "GaneshIdol",
+    "price" : "600",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO3Omn8xtZRWxt46c9" : {
+    "id" : 16,
+    "method" : "PhonePe",
+    "name" : "KavithaPhoneRecharge",
+    "price" : "129",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO3rw3fKUvwoGmHi4s" : {
+    "id" : 16,
+    "method" : "GPpay",
+    "name" : "BroVJioRecharge",
+    "price" : "149",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO3wApRX2OPm3pRb0n" : {
+    "id" : 17,
+    "method" : "GPpay",
+    "name" : "Milk",
+    "price" : "620",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO43t4INP0ojRYZD-5" : {
+    "id" : 18,
+    "method" : "PhonePe",
+    "name" : "BescomAug2021",
+    "price" : "950",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO4DPJfEW1My1BVR4C" : {
+    "id" : 19,
+    "method" : "Cash",
+    "name" : "Saree+Bangles",
+    "price" : "1000",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjO4JKIc9Y0NXMOWQ3Q" : {
+    "id" : 20,
+    "method" : "Cash",
+    "name" : "Cylinder",
+    "price" : "920",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MjOCHVNuN7KT-g7e9uu" : {
+    "id" : 21,
+    "method" : "Cash",
+    "name" : "SteelBoiler",
+    "price" : "1250",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  }
+}
