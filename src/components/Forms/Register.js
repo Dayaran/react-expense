@@ -34,7 +34,7 @@ class Register extends Component {
 
         
         return (
-            <>
+            <div>
                 {errorNotification}
                 <form>
                     <input type="text"
@@ -61,7 +61,7 @@ class Register extends Component {
                     />
                     <input className="submitBtn" type="submit" onClick={this.register} value="REGISTER" />
                 </form>
-            </>
+            </div>
         );
     }
 }

@@ -28,7 +28,7 @@ class Login extends Component {
 
         
         return (
-            <>
+            <div>
                 {errorNotification}
                 <form>
                     <input type="text"
@@ -48,7 +48,7 @@ class Login extends Component {
                     />
                     <input className="submitBtn" type="submit" onClick={this.login} value="ENTER" />
                 </form>
-            </>
+            </div>
         );
     }
 }
