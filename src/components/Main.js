@@ -43,7 +43,7 @@ export default class Main extends Component {
         }
 
         return (
-            <>
+            <div>
                 {!this.state.user ? (
                     <div className="mainBlock">
                       {form}
@@ -59,7 +59,7 @@ export default class Main extends Component {
                       }
                     </div>
                   ) : (<Tracker />)}
-            </>
+            </div>
         );
     }
 }
