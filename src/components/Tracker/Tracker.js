@@ -1,4 +1,6 @@
-import React, { Component } from 'react';
+import React, { Component
+
+} from 'react';
 import './Tracker.css';
 import fire from '../../config/Fire';
 import Transaction from './Transaction/Transaction';
