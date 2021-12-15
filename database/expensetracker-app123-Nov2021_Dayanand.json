@@ -1,0 +1,488 @@
+{
+  "-MnuPWpXBZH2Iq1USFBj" : {
+    "date" : "2021-11-01",
+    "id" : 1,
+    "method" : "PayTM",
+    "name" : "Milk",
+    "price" : "583",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MnuPdtEfJ5GDyCVLFjR" : {
+    "date" : "2021-11-02",
+    "id" : 2,
+    "method" : "PayTM",
+    "name" : "Petrol",
+    "price" : "150",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MnuPoyzjviZ2wpLt_0J" : {
+    "date" : "2021-11-02",
+    "id" : 3,
+    "method" : "PayTM",
+    "name" : "Tea",
+    "price" : "20",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MnuQ0h51wGiYwqXS_iY" : {
+    "date" : "2021-11-03",
+    "id" : 4,
+    "method" : "PayTM",
+    "name" : "Bescom",
+    "price" : "569",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MnuQjKMiKaKj0zcG3yk" : {
+    "date" : "2021-11-05",
+    "id" : 5,
+    "method" : "PayTM",
+    "name" : "Misc",
+    "price" : "100",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MnuQoYTi6RVfuQ0DZ_7" : {
+    "date" : "2021-11-07",
+    "id" : 6,
+    "method" : "PayTM",
+    "name" : "Vegetabls",
+    "price" : "250",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MnuRG1jL9grDNBhZcuv" : {
+    "date" : "2021-11-05",
+    "id" : 7,
+    "method" : "PhonePe",
+    "name" : "Medicals",
+    "price" : "117",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Mnxb3R_h68ZmScx5j8M" : {
+    "date" : "2021-11-08",
+    "id" : 8,
+    "method" : "PayTM",
+    "name" : "Books",
+    "price" : "960",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Mo4Uop-AwYO0EuVRilC" : {
+    "date" : "2021-11-09",
+    "id" : 9,
+    "method" : "PayTM",
+    "name" : "Reliance",
+    "price" : "1531.8",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Mo4VuBBCsTlmkQMumV0" : {
+    "date" : "2021-11-09",
+    "id" : 10,
+    "method" : "PhonePe",
+    "name" : "ScrapSteel",
+    "price" : "8200",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Mo94dSegdEwxOqJaFVE" : {
+    "date" : "2021-11-10",
+    "id" : 11,
+    "method" : "PayTM",
+    "name" : "Chicken",
+    "price" : "138",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Mo94iKavKg8SLILNr6W" : {
+    "date" : "2021-11-10",
+    "id" : 12,
+    "method" : "Cash",
+    "name" : "Ginger",
+    "price" : "20",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MoHP8rp_BktQ4YAPNaf" : {
+    "date" : "2021-11-12",
+    "id" : 13,
+    "method" : "PayTM",
+    "name" : "BBNL",
+    "price" : "2000",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MoHZKMnM8FereY_MHLw" : {
+    "date" : "2021-11-12",
+    "id" : 14,
+    "method" : "PhonePe",
+    "name" : "Prahlad",
+    "price" : "5000",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MoJjzH3Uu4j5xd3GsoK" : {
+    "date" : "2021-11-12",
+    "id" : 15,
+    "method" : "PayTM",
+    "name" : "Tea",
+    "price" : "50",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MoJkAssh88vnG7QCLYd" : {
+    "date" : "2021-11-12",
+    "id" : 16,
+    "method" : "PayTM",
+    "name" : "Bajji",
+    "price" : "135",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MoRyywyMXHEuRtGVmB3" : {
+    "date" : "2021-11-14",
+    "id" : 17,
+    "method" : "PayTM",
+    "name" : "KaviJiorchrg",
+    "price" : "129",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MogqjKgNe2FKlZdJO_H" : {
+    "date" : "2021-11-16",
+    "id" : 18,
+    "method" : "PayTM",
+    "name" : "Diesel",
+    "price" : "1000",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MogqsuUsDGIP6RBqBRL" : {
+    "date" : "2021-11-16",
+    "id" : 19,
+    "method" : "PayTM",
+    "name" : "WtrPump",
+    "price" : "100",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Moh3FmuB5O-WrLs29e2" : {
+    "date" : "2021-11-16",
+    "id" : 20,
+    "method" : "Cash",
+    "name" : "Ration",
+    "price" : "120",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Moh3KmuTmJ5ExJpVVuD" : {
+    "date" : "2021-11-16",
+    "id" : 21,
+    "method" : "Cash",
+    "name" : "Lunch",
+    "price" : "100",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Moh3Tcq5fxR3rdUjGKa" : {
+    "date" : "2021-11-17",
+    "id" : 22,
+    "method" : "PayTM",
+    "name" : "Chicken",
+    "price" : "420",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Moh3YD3yXHsUFroLPup" : {
+    "date" : "2021-11-17",
+    "id" : 23,
+    "method" : "Cash",
+    "name" : "Coriander",
+    "price" : "30",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Moh3f5mgzMaoSn-7_XV" : {
+    "date" : "2021-11-17",
+    "id" : 24,
+    "method" : "PayTM",
+    "name" : "IphoneCover",
+    "price" : "125",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Moh3ka9Oqo-qFu0PPYn" : {
+    "date" : "2021-11-17",
+    "id" : 25,
+    "method" : "PayTM",
+    "name" : "Eggs",
+    "price" : "50",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Moh40EwmyHOrHFaokte" : {
+    "date" : "2021-11-17",
+    "id" : 26,
+    "method" : "Cash",
+    "name" : "KidsPaint",
+    "price" : "40",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Moh46CgmMHC_piXCPxt" : {
+    "date" : "2021-11-17",
+    "id" : 27,
+    "method" : "PayTM",
+    "name" : "Chipps",
+    "price" : "175",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Moh4D_utY9tlXXN0Ylz" : {
+    "date" : "2021-11-17",
+    "id" : 28,
+    "method" : "Cash",
+    "name" : "Garlic",
+    "price" : "50",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Moh4VWB8_PJ4O2XZfBf" : {
+    "date" : "2021-11-17",
+    "id" : 29,
+    "method" : "PayTM",
+    "name" : "Bake sweets",
+    "price" : "84",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MovbrXJmUeWojnUWqwR" : {
+    "date" : "2021-11-19",
+    "id" : 30,
+    "method" : "PayTM",
+    "name" : "Monclamp",
+    "price" : "897",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Mp5S0nDQwG3dy5UKP6H" : {
+    "date" : "2021-11-21",
+    "id" : 31,
+    "method" : "Cash",
+    "name" : "FlourMill",
+    "price" : "50",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Mp5SBWKSUwZQBKJpKbp" : {
+    "date" : "2021-11-21",
+    "id" : 32,
+    "method" : "Cash",
+    "name" : "Vegetables",
+    "price" : "250",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Mp5SGrm3dqh3-sMiokk" : {
+    "date" : "2021-11-21",
+    "id" : 33,
+    "method" : "PayTM",
+    "name" : "Dress",
+    "price" : "375",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpGRx5gazUDEJ8k5HPF" : {
+    "date" : "2021-11-23",
+    "id" : 34,
+    "method" : "Cash",
+    "name" : "Noodles",
+    "price" : "64",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpGSAMjgmSdHckpvVKw" : {
+    "date" : "2021-11-23",
+    "id" : 35,
+    "method" : "Cash",
+    "name" : "BattCell",
+    "price" : "50",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpGSGIB0Dl_snoHD4XV" : {
+    "date" : "2021-11-24",
+    "id" : 36,
+    "method" : "Cash",
+    "name" : "Kavi",
+    "price" : "800",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpHBI30iG8L5EYIeM48" : {
+    "date" : "2021-11-24",
+    "id" : 37,
+    "method" : "PayTM",
+    "name" : "LIC",
+    "price" : "10764.88",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpKKjGe1IPuCeW37j4c" : {
+    "date" : "2021-11-25",
+    "id" : 38,
+    "method" : "PhonePe",
+    "name" : "Dance",
+    "price" : "1300",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpMBEjwNWDKvkKZf6wh" : {
+    "date" : "2021-11-25",
+    "id" : 39,
+    "method" : "PayTM",
+    "name" : "Apple",
+    "price" : "120",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpMD5k6x_DfqegqRpCp" : {
+    "date" : "2021-11-25",
+    "id" : 40,
+    "method" : "Cash",
+    "name" : "Banana",
+    "price" : "50",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpMDFjKhPQp0CfByWqd" : {
+    "date" : "2021-11-25",
+    "id" : 41,
+    "method" : "Cash",
+    "name" : "WhtCemnt",
+    "price" : "300",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpWEExj3GxK8m9ANL0A" : {
+    "date" : "2021-11-27",
+    "id" : 42,
+    "method" : "PayTM",
+    "name" : "BikeParts",
+    "price" : "1500",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpddsYixDrQOnYKFGhy" : {
+    "date" : "2021-11-28",
+    "id" : 43,
+    "method" : "Cash",
+    "name" : "Umbrella",
+    "price" : "200",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Mpde-KU2z3l1rRk72Yt" : {
+    "date" : "2021-11-28",
+    "id" : 44,
+    "method" : "Cash",
+    "name" : "CarViper",
+    "price" : "100",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Mpde9gCDg30XFxmHwmN" : {
+    "date" : "2021-11-28",
+    "id" : 45,
+    "method" : "PayTM",
+    "name" : "BikeLabr",
+    "price" : "450",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpdeMWYL5tLR6WibO8C" : {
+    "date" : "2021-11-28",
+    "id" : 46,
+    "method" : "PayTM",
+    "name" : "TeaSnacks",
+    "price" : "78",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-Mpdf6fsxRYNXG8Gaz5o" : {
+    "date" : "2021-11-29",
+    "id" : 47,
+    "method" : "PayTM",
+    "name" : "Bescom",
+    "price" : "1053",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpetFl9jGIv1UejRFfo" : {
+    "date" : "2021-11-29",
+    "id" : 48,
+    "method" : "Cash",
+    "name" : "Flower",
+    "price" : "100",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MpjcOllg4OHQHscYx0U" : {
+    "date" : "2021-11-30",
+    "id" : 49,
+    "method" : "PayTM",
+    "name" : "Tiffin",
+    "price" : "125",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MplK240XIvCaJ7WqVWT" : {
+    "date" : "2021-11-30",
+    "id" : 51,
+    "method" : "Online",
+    "name" : "DeepakMot",
+    "price" : "6400",
+    "type" : "deposit",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MplKJxqW9YMTzMxe00O" : {
+    "date" : "2021-11-30",
+    "id" : 52,
+    "method" : "PayTM",
+    "name" : "HarishaHLR",
+    "price" : "1500",
+    "type" : "deposit",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MplKn9BpAXQY51fgMN-" : {
+    "date" : "2021-11-01",
+    "id" : 53,
+    "method" : "PayTM",
+    "name" : "Harisha",
+    "price" : "1500",
+    "type" : "deposit",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MplMOGF1ECwAuGb6ixe" : {
+    "date" : "2021-11-30",
+    "id" : 54,
+    "method" : "PayTM",
+    "name" : "Milk",
+    "price" : "652",
+    "type" : "expense",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  },
+  "-MplMd_f1e3cMkf8xH4g" : {
+    "date" : "2021-11-26",
+    "id" : 55,
+    "method" : "Online",
+    "name" : "BBNLReimb",
+    "price" : "2000",
+    "type" : "deposit",
+    "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+  }
+}

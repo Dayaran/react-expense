@@ -1,0 +1,3215 @@
+{
+  "Todo" : {
+    "-MkNlWRh3R3HiL_jdCRP" : {
+      "complete" : true,
+      "title" : "tess"
+    },
+    "-MkNlX_hbyjvAHlMA4IR" : {
+      "complete" : false,
+      "title" : "ertere"
+    }
+  },
+  "Transactions" : {
+    "20dfaR0tLDMmL3e1ORYLFtlXDA53" : {
+      "-MjZGfjFLhRTUF8hB4YN" : {
+        "date" : "2021-09-01",
+        "id" : 1,
+        "method" : "GPay",
+        "name" : "Dance",
+        "price" : "2600",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZHCZieJTf0bwsY_zm" : {
+        "date" : "2021-09-01",
+        "id" : 2,
+        "method" : "GPay",
+        "name" : "Vegetables",
+        "price" : "150",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZHvawuXIrRdhz1zoN" : {
+        "date" : "2021-09-01",
+        "id" : 3,
+        "method" : "GPay",
+        "name" : "Vegetables2",
+        "price" : "70",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZILngK-yDQaGXwwzE" : {
+        "date" : "2021-09-04",
+        "id" : 4,
+        "method" : "PhonePe",
+        "name" : "JioKavi+Rchg",
+        "price" : "129",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZIne5e2jTObkvmB8k" : {
+        "date" : "2021-09-04",
+        "id" : 5,
+        "method" : "PhonePe",
+        "name" : "NoseTrimmer",
+        "price" : "180",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZJ0rheuz4EH-AAt2W" : {
+        "date" : "2021-09-09",
+        "id" : 6,
+        "method" : "PhonePe",
+        "name" : "CarService",
+        "price" : "9100",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZJAdLVxQDFUBx-UYV" : {
+        "date" : "2021-09-09",
+        "id" : 7,
+        "method" : "PhonePe",
+        "name" : "Groceries-Rel",
+        "price" : "611",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZJKvq_bw-vlZFK1VK" : {
+        "date" : "2021-09-09",
+        "id" : 8,
+        "method" : "PhonePe",
+        "name" : "Gifts-Naresh",
+        "price" : "360",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZJTIafJCwScjkcvLv" : {
+        "date" : "2021-09-12",
+        "id" : 9,
+        "method" : "PhonePe",
+        "name" : "SundayChicken",
+        "price" : "138",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZJbb0mB7HpLIqNiO0" : {
+        "date" : "2021-09-12",
+        "id" : 10,
+        "method" : "PhonePe",
+        "name" : "PulsarPetrol",
+        "price" : "100",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZJiZ5D5MjCqVMeGSe" : {
+        "date" : "2021-09-13",
+        "id" : 11,
+        "method" : "PhonePe",
+        "name" : "HarishaGym",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZKPs_-zQanQLvKNCX" : {
+        "date" : "2021-09-01",
+        "id" : 12,
+        "method" : "PayTM",
+        "name" : "MilkRamu",
+        "price" : "620",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZKb3KsQD_RWNQNqlB" : {
+        "date" : "2021-09-01",
+        "id" : 13,
+        "method" : "PayTM",
+        "name" : "GripeWater",
+        "price" : "55",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZKiCSnWILN3Jd0NuM" : {
+        "date" : "2021-09-02",
+        "id" : 14,
+        "method" : "PayTM",
+        "name" : "JioBroVRchrg",
+        "price" : "149",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZLDUDcCpZuhnopXZ7" : {
+        "date" : "2021-09-04",
+        "id" : 15,
+        "method" : "PayTM",
+        "name" : "ParotaBroV",
+        "price" : "250",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZLkTRry0UGC7rwars" : {
+        "date" : "2021-09-11",
+        "id" : 16,
+        "method" : "PayTM",
+        "name" : "Diesel",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZLrYTGhRFoUnBMpDL" : {
+        "date" : "2021-09-11",
+        "id" : 17,
+        "method" : "PayTM",
+        "name" : "AtibeleToll",
+        "price" : "30",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZLxL9EI44o9f9rjV8" : {
+        "date" : "2021-09-12",
+        "id" : 18,
+        "method" : "PayTM",
+        "name" : "BTradeOils",
+        "price" : "770",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZMBbqo9mfGcfLwfso" : {
+        "date" : "2021-09-12",
+        "id" : 19,
+        "method" : "PayTM",
+        "name" : "Bread",
+        "price" : "60",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZMlvMGYcSS9AMjReD" : {
+        "date" : "2021-09-11",
+        "id" : 20,
+        "method" : "Cash",
+        "name" : "DadPoojaItms",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZN-ay3TVG_zq1Or08" : {
+        "date" : "2021-09-09",
+        "id" : 21,
+        "method" : "Cash",
+        "name" : "KaviPockMoney",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZN6jyyVUrykAvA0wB" : {
+        "date" : "2021-09-10",
+        "id" : 22,
+        "method" : "Cash",
+        "name" : "GaneshaIdol",
+        "price" : "600",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZO2zZwddDaIBhhkWD" : {
+        "date" : "2021-09-01",
+        "id" : 23,
+        "method" : "PayTM",
+        "name" : "BescomAug",
+        "price" : "936",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZOCuD7JEEQC1ea4Kk" : {
+        "date" : "2021-09-08",
+        "id" : 24,
+        "method" : "Cash",
+        "name" : "Saree+Bangls",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZOIqZK1Rucvj3k2C3" : {
+        "date" : "2021-09-05",
+        "id" : 25,
+        "method" : "Cash",
+        "name" : "GasCylinder",
+        "price" : "920",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZORdl6halx4Dv_P4B" : {
+        "date" : "2021-09-04",
+        "id" : 26,
+        "method" : "Cash",
+        "name" : "SteelBoiler",
+        "price" : "1250",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZOazCfOuc1qykck0m" : {
+        "date" : "2021-09-13",
+        "id" : 27,
+        "method" : "Cash",
+        "name" : "Stationaries",
+        "price" : "200",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZXSfUMEKwkfdg4ciH" : {
+        "date" : "2021-09-14",
+        "id" : 28,
+        "method" : "Cash",
+        "name" : "Steelitems",
+        "price" : "1250",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjZXoVlWvq8P3edj9DM" : {
+        "date" : "2021-09-14",
+        "id" : 29,
+        "method" : "GPpay",
+        "name" : "CarInsurance",
+        "price" : "6090",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjmWEEy0EUE5FLk4ocF" : {
+        "date" : "2021-09-17",
+        "id" : 30,
+        "method" : "PayTM",
+        "name" : "Spinach",
+        "price" : "50",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjmXxkY1XvgIXeDjrzU" : {
+        "date" : "2021-09-30",
+        "id" : 31,
+        "method" : "Cash",
+        "name" : "DrinkingWater",
+        "price" : "250",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-Mjnbvux0Hi0S4dmFnIr" : {
+        "date" : "2021-09-17",
+        "id" : 32,
+        "method" : "PhonePe",
+        "name" : "Petrol",
+        "price" : "120",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjnezHRKMdqK2WvVjHr" : {
+        "date" : "2021-09-17",
+        "id" : 33,
+        "method" : "PayTM",
+        "name" : "ProjStationaries",
+        "price" : "40",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjwwYt-mc4lbBCeVzTm" : {
+        "date" : "2021-09-19",
+        "id" : 34,
+        "method" : "PhonePe",
+        "name" : "Mutton",
+        "price" : "420",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjwwepSiE6_eEDEPUPm" : {
+        "date" : "2021-09-19",
+        "id" : 35,
+        "method" : "PayTM",
+        "name" : "Groceries",
+        "price" : "126",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-Mjxwv7P6ezVENopb95-" : {
+        "date" : "2021-09-19",
+        "id" : 36,
+        "method" : "PhonePe",
+        "name" : "Rice+Poko",
+        "price" : "1760",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-Mjxx6DFqeKEGO6YK0OG" : {
+        "date" : "2021-09-19",
+        "id" : 37,
+        "method" : "PhonePe",
+        "name" : "Petrol",
+        "price" : "150",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MjxxBGUzGjACjgtmpCT" : {
+        "date" : "2021-09-19",
+        "id" : 38,
+        "method" : "PayTM",
+        "name" : "Spinach",
+        "price" : "50",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkBkHzX6EzN31HdmNhe" : {
+        "date" : "2021-09-22",
+        "id" : 39,
+        "method" : "PhonePe",
+        "name" : "Groceries",
+        "price" : "253",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkKt1Lcn8cR41R-dcYv" : {
+        "date" : "2021-09-21",
+        "id" : 40,
+        "method" : "PhonePe",
+        "name" : "JioDayaRchrg",
+        "price" : "329",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkKtxg0JpB_X1VIOa4b" : {
+        "date" : "2021-09-23",
+        "id" : 41,
+        "method" : "PayTM",
+        "name" : "CKabab",
+        "price" : "220",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkMpSM46i9jKSKwQ3ZK" : {
+        "date" : "2021-09-24",
+        "id" : 42,
+        "method" : "PhonePe",
+        "name" : "Onion6KG",
+        "price" : "100",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkQYsQANtjGcUasj78k" : {
+        "date" : "2021-09-25",
+        "id" : 43,
+        "method" : "PhonePe",
+        "name" : "HairCut",
+        "price" : "100",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkR4_oGTs1EJFUSROGi" : {
+        "date" : "2021-09-25",
+        "id" : 44,
+        "method" : "PhonePe",
+        "name" : "AnujMamta",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkR4ppqxHi8IUYmcZrf" : {
+        "date" : "2021-09-25",
+        "id" : 45,
+        "method" : "PhonePe",
+        "name" : "CarDiesel",
+        "price" : "1100",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkRWKREy29sFbShavBO" : {
+        "date" : "2021-09-25",
+        "id" : 46,
+        "method" : "PayTM",
+        "name" : "DMartPooja",
+        "price" : "1402",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkRXTGhy9h1GOVkw1eL" : {
+        "date" : "2021-09-25",
+        "id" : 47,
+        "method" : "PhonePe",
+        "name" : "MayJuice",
+        "price" : "100",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkXmEQkJjkmsp4QpIuB" : {
+        "date" : "2021-09-26",
+        "id" : 48,
+        "method" : "Cash",
+        "name" : "PoojVegetables",
+        "price" : "490",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkXmKDUQrXlvOAVxRK9" : {
+        "date" : "2021-09-26",
+        "id" : 49,
+        "method" : "Cash",
+        "name" : "SwamiSaiRaam",
+        "price" : "250",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkXmSoGYWwmFkTrkOUW" : {
+        "date" : "2021-09-26",
+        "id" : 50,
+        "method" : "Cash",
+        "name" : "BeetelLeafNuts",
+        "price" : "50",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-Mk_hvyCUEDtK0kGvuF8" : {
+        "date" : "2021-09-27",
+        "id" : 51,
+        "method" : "PayTM",
+        "name" : "BescomBill",
+        "price" : "950",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkbRZQ6-1riI614s7ou" : {
+        "date" : "2021-09-27",
+        "id" : 52,
+        "method" : "PayTM",
+        "name" : "TollCharges",
+        "price" : "80",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkbRfY9Qf9I5OMKj_zi" : {
+        "date" : "2021-09-27",
+        "id" : 53,
+        "method" : "Cash",
+        "name" : "SteerCover",
+        "price" : "200",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkbeTbikk2BOYagEtEA" : {
+        "date" : "2021-09-27",
+        "id" : 54,
+        "method" : "Cash",
+        "name" : "Ration",
+        "price" : "110",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkkLv449vTWmTE0ZTjR" : {
+        "date" : "2021-09-29",
+        "id" : 55,
+        "method" : "PayTM",
+        "name" : "LIC-Self",
+        "price" : "5306",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MklIdmHwdVFPEFYa_oB" : {
+        "date" : "2021-09-29",
+        "id" : 56,
+        "method" : "PayTM",
+        "name" : "KachoriChats",
+        "price" : "75",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MklIiqltNPW2wjJgu5N" : {
+        "date" : "2021-09-29",
+        "id" : 57,
+        "method" : "PayTM",
+        "name" : "BlackTea",
+        "price" : "33",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MklNiLr57HPChYaUm3k" : {
+        "date" : "2021-09-29",
+        "id" : 58,
+        "method" : "PhonePe",
+        "name" : "Clothes_Rituraj",
+        "price" : "1150",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MklOPGyfriZoMcZpjaX" : {
+        "date" : "2021-09-29",
+        "id" : 59,
+        "method" : "Cash",
+        "name" : "DailyFrocks",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MklQzrcDhw2Oqck4SNJ" : {
+        "date" : "2021-09-29",
+        "id" : 60,
+        "method" : "GPpay",
+        "name" : "Burfee",
+        "price" : "120",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MklW7TtqEnFWxnweBdV" : {
+        "date" : "2021-09-29",
+        "id" : 61,
+        "method" : "Cash",
+        "name" : "ScreenCover",
+        "price" : "600",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MklWFMluws_xJMjWtuR" : {
+        "date" : "2021-09-29",
+        "id" : 62,
+        "method" : "Cash",
+        "name" : "Goggles",
+        "price" : "100",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-Mklc8HXxvevme-8q3te" : {
+        "date" : "2021-09-29",
+        "id" : 63,
+        "method" : "PhonePe",
+        "name" : "BDayItems",
+        "price" : "535",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-Mkldrhlrl5HfuxBg5Nn" : {
+        "date" : "2021-09-29",
+        "id" : 64,
+        "method" : "PhonePe",
+        "name" : "Dress",
+        "price" : "1200",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MklxQamJjjbE644OJ29" : {
+        "date" : "2021-09-29",
+        "id" : 65,
+        "method" : "Cash",
+        "name" : "KaviDress",
+        "price" : "300",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MklxX--COhaxa3ZJOq4" : {
+        "date" : "2021-09-29",
+        "id" : 66,
+        "method" : "PhonePe",
+        "name" : "TeaTable",
+        "price" : "1300",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkqpHX8J4guVPBnYQiJ" : {
+        "date" : "2021-09-30",
+        "id" : 67,
+        "method" : "PhonePe",
+        "name" : "GiftItems",
+        "price" : "1044",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkqqiMgjymrc6qZ8T5o" : {
+        "date" : "2021-09-30",
+        "id" : 68,
+        "method" : "PhonePe",
+        "name" : "5KGCake",
+        "price" : "2100",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkqqrKnXT2YqHXA7z0E" : {
+        "date" : "2021-09-30",
+        "id" : 69,
+        "method" : "PhonePe",
+        "name" : "ChairsTbls",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkqraLTGWKloxOYJHfQ" : {
+        "date" : "2021-09-30",
+        "id" : 70,
+        "method" : "PayTM",
+        "name" : "PaperPlates",
+        "price" : "250",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkqwYPycgk0N07GPTlL" : {
+        "date" : "2021-09-30",
+        "id" : 71,
+        "method" : "PhonePe",
+        "name" : "Diesel",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-Mkqxy5rwPYDHBrQu02I" : {
+        "date" : "2021-09-30",
+        "id" : 72,
+        "method" : "PhonePe",
+        "name" : "CoolDrnks",
+        "price" : "288",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkqyDi0iOVIcvfrlR36" : {
+        "date" : "2021-09-30",
+        "id" : 73,
+        "method" : "PhonePe",
+        "name" : "FoodCtrng",
+        "price" : "11000",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MktRvfeFj_WoZxqCJde" : {
+        "date" : "2021-09-30",
+        "id" : 74,
+        "method" : "PhonePe",
+        "name" : "BDayDeco",
+        "price" : "3000",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-MkvdnobOKn31dHMjuDC" : {
+        "date" : "2021-09-30",
+        "id" : 75,
+        "method" : "Cash",
+        "name" : "Chipps",
+        "price" : "590",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      },
+      "-Mkvdw4uWq5sqfiRiCiS" : {
+        "date" : "2021-09-30",
+        "id" : 76,
+        "method" : "Cash",
+        "name" : "NameBord",
+        "price" : "140",
+        "type" : "expense",
+        "user_id" : "20dfaR0tLDMmL3e1ORYLFtlXDA53"
+      }
+    },
+    "6IYd9Oufg9U6WtHJYJ0hJWnqLoe2" : {
+      "-MjZZo3v9Czf6Oyhwp_F" : {
+        "date" : "2021-09-01",
+        "id" : 1,
+        "method" : "Cash",
+        "name" : "Daya",
+        "price" : "2500",
+        "type" : "deposit",
+        "user_id" : "6IYd9Oufg9U6WtHJYJ0hJWnqLoe2"
+      },
+      "-MjZZyoxK-Gta9LBY346" : {
+        "date" : "2021-09-08",
+        "id" : 2,
+        "method" : "Cash",
+        "name" : "Daya",
+        "price" : "1000",
+        "type" : "deposit",
+        "user_id" : "6IYd9Oufg9U6WtHJYJ0hJWnqLoe2"
+      },
+      "-MjZ_9PtCeVDVqW3u_dI" : {
+        "date" : "2021-09-14",
+        "id" : 3,
+        "method" : "Online",
+        "name" : "DayaUBI",
+        "price" : "50000",
+        "type" : "deposit",
+        "user_id" : "6IYd9Oufg9U6WtHJYJ0hJWnqLoe2"
+      }
+    },
+    "Ew3XaqJmQEeQkYR7KV8xUJia8652" : {
+      "-Mj4T4IxP1PC7qT7L4-B" : {
+        "id" : 1,
+        "name" : "HNo6Money",
+        "price" : "1300000",
+        "type" : "deposit",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-Mj4Tmoxl8eB1E15Yd2j" : {
+        "id" : 3,
+        "name" : "BuilderPrabhakar",
+        "price" : "1200000",
+        "type" : "deposit",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-Mj4U2VD7kk3MLRxkoGY" : {
+        "id" : 4,
+        "name" : "MySalaries",
+        "price" : "3200000",
+        "type" : "deposit",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-Mj4UA1AzSUXJxPzJABD" : {
+        "id" : 5,
+        "name" : "Abhishek",
+        "price" : "500000",
+        "type" : "expense",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-Mj4UDC2ISTjcRCCP5xb" : {
+        "id" : 6,
+        "name" : "SwiftCar",
+        "price" : "250000",
+        "type" : "expense",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-Mj4UHreFXfgOYSjds1D" : {
+        "id" : 7,
+        "name" : "HomeExpenses",
+        "price" : "300000",
+        "type" : "expense",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-Mj4h9I6RSj58H2RglLY" : {
+        "id" : 8,
+        "name" : "GoldLoanClosure",
+        "price" : "165000",
+        "type" : "expense",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-Mj4qtgim7yEoz3T-_9e" : {
+        "id" : 9,
+        "name" : "PrabhakarInterest2020",
+        "price" : "250000",
+        "type" : "deposit",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-Mj4r2nzKNyQiT7FayYb" : {
+        "id" : 10,
+        "name" : "SharesBuying",
+        "price" : "80000",
+        "type" : "expense",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-Mj4rAjTfRXYi3hef4_F" : {
+        "id" : 11,
+        "name" : "BBal",
+        "price" : "780000",
+        "type" : "expense",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-MjFKcFCd4kCW9A-82L7" : {
+        "id" : 12,
+        "name" : "FabricationCapital",
+        "price" : "200000",
+        "type" : "expense",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-MjFLrf1HrakPrp1AmWH" : {
+        "id" : 13,
+        "name" : "SaleUse900sqft",
+        "price" : "50000",
+        "type" : "expense",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-MjNDcaDbOMP6oYNpjbW" : {
+        "id" : 14,
+        "name" : "NandishLoanReturn",
+        "price" : "100000",
+        "type" : "deposit",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-Mj_7C9c-YAYh0dehp3g" : {
+        "date" : "2021-03-08",
+        "id" : 15,
+        "method" : "Cash",
+        "name" : "SeenappaInterest",
+        "price" : "100000",
+        "type" : "deposit",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      },
+      "-Mj_E3vxr9Qoghuy4A5Q" : {
+        "date" : "2021-07-06",
+        "id" : 15,
+        "method" : "Online",
+        "name" : "MedicalMHB",
+        "price" : "90000",
+        "type" : "expense",
+        "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+      }
+    },
+    "ZRXVlNmHxMX7vH0c016rVrF1u2J2" : {
+      "-MjtIPMLJrBAvnCpYHLt" : {
+        "date" : "2020-01-07",
+        "id" : 2,
+        "method" : "Cash",
+        "name" : "2BoreWells",
+        "price" : "250000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtIg3a5PGiyJwFAuFP" : {
+        "date" : "2020-01-08",
+        "id" : 3,
+        "method" : "Cash",
+        "name" : "MeasrTape",
+        "price" : "400",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtJ_rylRuNpUAfgxPs" : {
+        "date" : "2020-01-26",
+        "id" : 6,
+        "method" : "Cash",
+        "name" : "PoojaItems",
+        "price" : "1200",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtJpRp9EVeR-GdPxiw" : {
+        "date" : "2020-01-27",
+        "id" : 7,
+        "method" : "Cash",
+        "name" : "MasonLabour1",
+        "price" : "20000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtJz2K1-0KugY4j5_1" : {
+        "date" : "2020-01-27",
+        "id" : 8,
+        "method" : "Cash",
+        "name" : "BoulderStone",
+        "price" : "3800",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtKGvqzZ6gWAScnuEZ" : {
+        "date" : "2020-01-28",
+        "id" : 9,
+        "method" : "Cash",
+        "name" : "TMTSteel",
+        "price" : "61000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtKRL_SCrt2ZZSNI5-" : {
+        "date" : "2020-01-28",
+        "id" : 10,
+        "method" : "Cash",
+        "name" : "SMBSandBlocks",
+        "price" : "20000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtLJYp6TiK9VcR7Gzk" : {
+        "date" : "2020-01-29",
+        "id" : 11,
+        "method" : "Cash",
+        "name" : "SumpClamp",
+        "price" : "700",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtLR_4asYz0dIAnUmL" : {
+        "date" : "2020-01-29",
+        "id" : 12,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "2100",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtL_GxNpjbLFSeLPvG" : {
+        "date" : "2020-01-30",
+        "id" : 13,
+        "method" : "Cash",
+        "name" : "Pooja",
+        "price" : "1500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtMCu4G74XNQFqusvF" : {
+        "date" : "2020-01-31",
+        "id" : 14,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtMLFt9G7XztcY8m4J" : {
+        "date" : "2020-01-31",
+        "id" : 15,
+        "method" : "Cash",
+        "name" : "WaterTank",
+        "price" : "350",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtMUOls6LbeqJAZ9aB" : {
+        "date" : "2020-02-01",
+        "id" : 16,
+        "method" : "Cash",
+        "name" : "MLabour",
+        "price" : "7300",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtMgHlukxFAXqpsHNF" : {
+        "date" : "2020-02-03",
+        "id" : 17,
+        "method" : "Cash",
+        "name" : "SMBMSand",
+        "price" : "24000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtNQUtTWrOx1ImAMCj" : {
+        "date" : "2020-02-08",
+        "id" : 18,
+        "method" : "Cash",
+        "name" : "MLabour",
+        "price" : "37000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtNWcXeleyerODXQR4" : {
+        "date" : "2020-02-11",
+        "id" : 19,
+        "method" : "Cash",
+        "name" : "WaterTank",
+        "price" : "350",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtNcqHDUpbYKgVvxRs" : {
+        "date" : "2020-02-12",
+        "id" : 20,
+        "method" : "Cash",
+        "name" : "BoulderStones",
+        "price" : "3800",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtNru93t-wgiBUI17D" : {
+        "date" : "2020-02-15",
+        "id" : 21,
+        "method" : "Cash",
+        "name" : "MLabour",
+        "price" : "16000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtNzBPTJyjYjpzJT8q" : {
+        "date" : "2020-02-15",
+        "id" : 22,
+        "method" : "Cash",
+        "name" : "WaterTank",
+        "price" : "1500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtO5WlQbLfAZtLTFv6" : {
+        "date" : "2020-02-15",
+        "id" : 23,
+        "method" : "Cash",
+        "name" : "Blocks",
+        "price" : "24000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtOLddzARAUavpZGDE" : {
+        "date" : "2020-02-16",
+        "id" : 24,
+        "method" : "Cash",
+        "name" : "BigStones",
+        "price" : "3500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtOTBdrlmeIsYhWn7I" : {
+        "date" : "2020-02-16",
+        "id" : 25,
+        "method" : "Cash",
+        "name" : "Cement",
+        "price" : "5000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtOepl4JMbhUyBttbC" : {
+        "date" : "2020-02-17",
+        "id" : 26,
+        "method" : "Cash",
+        "name" : "MiscDaya",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtOmtcwhCsuNCkv2Bf" : {
+        "date" : "2020-02-17",
+        "id" : 27,
+        "method" : "Cash",
+        "name" : "Generator",
+        "price" : "4000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtPoJO-bjmzEMAoETi" : {
+        "date" : "2020-02-20",
+        "id" : 28,
+        "method" : "Cash",
+        "name" : "MiscDaya",
+        "price" : "6000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtPxH1olg9iQzKHV8E" : {
+        "date" : "2020-02-21",
+        "id" : 29,
+        "method" : "Cash",
+        "name" : "WTimber",
+        "price" : "25000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtQ8JWV2okYL0ya1JQ" : {
+        "date" : "2020-02-22",
+        "id" : 30,
+        "method" : "Cash",
+        "name" : "PetrolVidhy",
+        "price" : "2500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtQPJWQemf4bOGZw4s" : {
+        "date" : "2020-03-07",
+        "id" : 31,
+        "method" : "Cash",
+        "name" : "MLabour",
+        "price" : "8000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtQYdWN104kub7Af0O" : {
+        "date" : "2020-03-08",
+        "id" : 32,
+        "method" : "Cash",
+        "name" : "MouldMatt",
+        "price" : "8000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtQgRlNrlj3Sjf_kfN" : {
+        "date" : "2020-03-09",
+        "id" : 33,
+        "method" : "Cash",
+        "name" : "MouldElectric",
+        "price" : "4000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtQpGsvunqSmDo6br8" : {
+        "date" : "2020-03-11",
+        "id" : 34,
+        "method" : "Cash",
+        "name" : "MLabour",
+        "price" : "62000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtQz50YnjvqH1Brk9M" : {
+        "date" : "2020-03-11",
+        "id" : 35,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "2100",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtRAM-ImfNXUehMAq-" : {
+        "date" : "2020-03-14",
+        "id" : 36,
+        "method" : "Cash",
+        "name" : "LabourExp",
+        "price" : "3000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtRSYF-UV4T8JBVmSw" : {
+        "date" : "2020-03-16",
+        "id" : 37,
+        "method" : "Cash",
+        "name" : "TempDoor",
+        "price" : "2800",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtRZOVS7jFXUwLXZ21" : {
+        "date" : "2020-03-16",
+        "id" : 38,
+        "method" : "Cash",
+        "name" : "BesBasavaraj",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtUNP-5w8icMEg9WzD" : {
+        "date" : "2020-01-28",
+        "id" : 36,
+        "method" : "GPpay",
+        "name" : "16BagsCement",
+        "price" : "6080",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtUWRDN146vrJFR77l" : {
+        "date" : "2020-02-01",
+        "id" : 37,
+        "method" : "GPpay",
+        "name" : "30BagsCement",
+        "price" : "11600",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtUclp_Hz2I-itRt89" : {
+        "date" : "2020-02-06",
+        "id" : 38,
+        "method" : "GPpay",
+        "name" : "Steel",
+        "price" : "34900",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtUkoxCc3kGoog_wSE" : {
+        "date" : "2020-02-09",
+        "id" : 39,
+        "method" : "GPpay",
+        "name" : "Steel",
+        "price" : "4800",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtUsMicSphCeYl4JVg" : {
+        "date" : "2020-02-10",
+        "id" : 40,
+        "method" : "GPpay",
+        "name" : "Debris",
+        "price" : "2500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtUykgwaxBPEy3pqwA" : {
+        "date" : "2020-02-10",
+        "id" : 41,
+        "method" : "GPpay",
+        "name" : "BigStones",
+        "price" : "12000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtVEyitPhBWAbVWVlv" : {
+        "date" : "2020-02-11",
+        "id" : 42,
+        "method" : "GPpay",
+        "name" : "45BagsCement",
+        "price" : "14800",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtVP3KkPuM1zQ7eb2L" : {
+        "date" : "2020-02-14",
+        "id" : 43,
+        "method" : "GPpay",
+        "name" : "Vaaskaal",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtZviLwLZnVVTlfbBx" : {
+        "date" : "2020-02-15",
+        "id" : 44,
+        "method" : "GPpay",
+        "name" : "MSand",
+        "price" : "22950",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjt_2JmeJaqSXkeXX2j" : {
+        "date" : "2020-02-15",
+        "id" : 45,
+        "method" : "GPpay",
+        "name" : "20BagsCement",
+        "price" : "4000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjt_9ZvLzejMrVAPcD5" : {
+        "date" : "2020-02-17",
+        "id" : 46,
+        "method" : "GPpay",
+        "name" : "PrimerVaaskaal",
+        "price" : "120",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjt_JruCCYKOIc4yFnX" : {
+        "date" : "2020-02-18",
+        "id" : 47,
+        "method" : "GPpay",
+        "name" : "Primer",
+        "price" : "250",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjt_RqZfrFSYq1UHYmt" : {
+        "date" : "2020-02-21",
+        "id" : 48,
+        "method" : "GPpay",
+        "name" : "VaaskaalRods",
+        "price" : "7200",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjt__h1CRocP5mwNubH" : {
+        "date" : "2020-02-21",
+        "id" : 49,
+        "method" : "GPpay",
+        "name" : "VaaskaalClamp",
+        "price" : "230",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjt_jbeW_Mng3M44QGs" : {
+        "date" : "2020-02-21",
+        "id" : 50,
+        "method" : "GPpay",
+        "name" : "TransportVaaskaal",
+        "price" : "250",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjt_qvQ9qFbNvZw8FkV" : {
+        "date" : "2020-02-21",
+        "id" : 51,
+        "method" : "GPpay",
+        "name" : "WoodPrimer",
+        "price" : "580",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjt_vlIoKmE8PkUbQxz" : {
+        "date" : "2020-02-22",
+        "id" : 52,
+        "method" : "GPpay",
+        "name" : "SClamp",
+        "price" : "60",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjta2SvdSnR1GMqXPTO" : {
+        "date" : "2020-02-25",
+        "id" : 53,
+        "method" : "GPpay",
+        "name" : "Steel",
+        "price" : "30000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtajOfynZ9qKStGDDd" : {
+        "date" : "2020-02-28",
+        "id" : 54,
+        "method" : "GPpay",
+        "name" : "30BagsCement",
+        "price" : "15000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtbLoIvM89V31bw4vK" : {
+        "date" : "2020-02-29",
+        "id" : 55,
+        "method" : "GPpay",
+        "name" : "BroomRods",
+        "price" : "400",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtb_BunemCgNA40DkS" : {
+        "date" : "2020-02-28",
+        "id" : 56,
+        "method" : "GPpay",
+        "name" : "Petrol",
+        "price" : "200",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtbiePgyrhxqs5WkP1" : {
+        "date" : "2020-03-07",
+        "id" : 57,
+        "method" : "GPpay",
+        "name" : "BigStone",
+        "price" : "3300",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtbq6mUZsu03kjuH1E" : {
+        "date" : "2020-03-08",
+        "id" : 58,
+        "method" : "GPpay",
+        "name" : "Steel RCC",
+        "price" : "25000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtbv61LKFgp9tSCX9K" : {
+        "date" : "2020-03-09",
+        "id" : 59,
+        "method" : "GPpay",
+        "name" : "Steel RCC",
+        "price" : "25000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtcMAd433iuli1dEmj" : {
+        "date" : "2020-03-10",
+        "id" : 60,
+        "method" : "GPpay",
+        "name" : "Petrol",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtcUYbdXj5h1j236ic" : {
+        "date" : "2020-03-20",
+        "id" : 61,
+        "method" : "GPpay",
+        "name" : "Tarpauline",
+        "price" : "370",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtcZtjJWXntlkgap1q" : {
+        "date" : "2020-03-26",
+        "id" : 62,
+        "method" : "GPpay",
+        "name" : "MSand",
+        "price" : "2900",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtcfuMe-TitU0TNANs" : {
+        "date" : "2020-03-29",
+        "id" : 63,
+        "method" : "GPpay",
+        "name" : "MLabour",
+        "price" : "15000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtclkbhOX6cAA_2w9y" : {
+        "date" : "2020-04-13",
+        "id" : 64,
+        "method" : "GPpay",
+        "name" : "Petrol",
+        "price" : "1500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtcsfzXjAwu892nnW0" : {
+        "date" : "2020-04-28",
+        "id" : 65,
+        "method" : "GPpay",
+        "name" : "Big6''Pipe",
+        "price" : "350",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtdicCvoYf-w2M1Dvm" : {
+        "date" : "2020-05-02",
+        "id" : 66,
+        "method" : "Cash",
+        "name" : "MLabour",
+        "price" : "25000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtdoo6Va3pwMQpLIa6" : {
+        "date" : "2020-02-04",
+        "id" : 67,
+        "method" : "Cash",
+        "name" : "BesBasavaraj",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjte14TIZ0rLv8nSOWu" : {
+        "date" : "2020-05-05",
+        "id" : 68,
+        "method" : "GPpay",
+        "name" : "PlumbingH1",
+        "price" : "23000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtgNd6mIg7wPZ5hcVE" : {
+        "date" : "2020-05-03",
+        "id" : 69,
+        "method" : "GPpay",
+        "name" : "ElectricalItems",
+        "price" : "8000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtgcLqYW5o5dnEU5pY" : {
+        "date" : "2020-05-02",
+        "id" : 70,
+        "method" : "Cash",
+        "name" : "KitExhausepipe",
+        "price" : "450",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtgkc3IPj2cxUknAaZ" : {
+        "date" : "2020-05-02",
+        "id" : 71,
+        "method" : "GPpay",
+        "name" : "30BagsCement",
+        "price" : "11000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtgqtp4mBZNkPrJN8G" : {
+        "date" : "2020-05-05",
+        "id" : 72,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtgzkpyajPYD51nZMS" : {
+        "date" : "2020-05-09",
+        "id" : 73,
+        "method" : "GPpay",
+        "name" : "PlumbingH2",
+        "price" : "22000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjth5t5BkdgAmLi1MN5" : {
+        "date" : "2020-05-05",
+        "id" : 74,
+        "method" : "Cash",
+        "name" : "PetrolVidhyadhar",
+        "price" : "1200",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjthE6CUmZQnS0KojOn" : {
+        "date" : "2020-05-09",
+        "id" : 75,
+        "method" : "Cash",
+        "name" : "MLabour",
+        "price" : "34000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjthLyS7--gx8EqyDqw" : {
+        "date" : "2020-05-09",
+        "id" : 76,
+        "method" : "Cash",
+        "name" : "PlumberSal",
+        "price" : "12000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjthSthKgKfXaffGpWQ" : {
+        "date" : "2020-05-09",
+        "id" : 77,
+        "method" : "Cash",
+        "name" : "PetrolDaya",
+        "price" : "1200",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjthYzKGCDU8ua6g5Sh" : {
+        "date" : "2020-05-12",
+        "id" : 78,
+        "method" : "GPpay",
+        "name" : "20BagsCement",
+        "price" : "7500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjthiAo4g_YZTAhGi0J" : {
+        "date" : "2020-05-15",
+        "id" : 79,
+        "method" : "Cash",
+        "name" : "Blocks4''",
+        "price" : "10400",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjti4k_Xe_4s4Q0iXnt" : {
+        "date" : "2020-05-16",
+        "id" : 80,
+        "method" : "GPpay",
+        "name" : "20BagsCement",
+        "price" : "7400",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtiBPgRqJDfXShfIA5" : {
+        "date" : "2020-05-16",
+        "id" : 81,
+        "method" : "Cash",
+        "name" : "WaterTank",
+        "price" : "3850",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtiHXxHpCVeLjiX375" : {
+        "date" : "2020-05-16",
+        "id" : 82,
+        "method" : "Cash",
+        "name" : "MLabour",
+        "price" : "44000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtiMfCZ7zNwhnZfk4E" : {
+        "date" : "2020-05-23",
+        "id" : 83,
+        "method" : "Cash",
+        "name" : "MLabour",
+        "price" : "20000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtiSIhRoijJX_x5P2S" : {
+        "date" : "2020-05-23",
+        "id" : 84,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtialxZ2mxM0m3C3AN" : {
+        "date" : "2020-05-23",
+        "id" : 85,
+        "method" : "Cash",
+        "name" : "ElectricalEarthing",
+        "price" : "3800",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtikRBWIlaYa6rwlPN" : {
+        "date" : "2020-05-26",
+        "id" : 86,
+        "method" : "Cash",
+        "name" : "RedBricks",
+        "price" : "900",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtirPRSdGdLUmhdjyb" : {
+        "date" : "2020-05-26",
+        "id" : 87,
+        "method" : "GPpay",
+        "name" : "30BagsCement",
+        "price" : "11000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtix2ggg4221LO1jvM" : {
+        "date" : "2020-04-27",
+        "id" : 88,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "4000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtj1OgCG_BCUfQsaA-" : {
+        "date" : "2020-05-28",
+        "id" : 89,
+        "method" : "Cash",
+        "name" : "ElectricalPipe",
+        "price" : "400",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtj8RwNiDQfugy_DtX" : {
+        "date" : "2020-05-28",
+        "id" : 90,
+        "method" : "Cash",
+        "name" : "GraniteAdv",
+        "price" : "12550",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtjFtpdcmXWAynEA_-" : {
+        "date" : "2020-05-28",
+        "id" : 91,
+        "method" : "GPpay",
+        "name" : "MLabour",
+        "price" : "23000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtjL8_t9Sc46NuJRql" : {
+        "date" : "2020-06-03",
+        "id" : 92,
+        "method" : "Cash",
+        "name" : "Railings",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtkK9d8ksEyLp_OFQD" : {
+        "date" : "2020-06-04",
+        "id" : 93,
+        "method" : "Cash",
+        "name" : "Electrical",
+        "price" : "690",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtkPHyE2yVdKTll1Ob" : {
+        "date" : "2020-06-04",
+        "id" : 94,
+        "method" : "Cash",
+        "name" : "Petrol",
+        "price" : "880",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtkXIq-InDE3bqTXWc" : {
+        "date" : "2020-06-06",
+        "id" : 95,
+        "method" : "GPpay",
+        "name" : "MLabour",
+        "price" : "12000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtkd-rdyqukVF1nGOb" : {
+        "date" : "2020-06-08",
+        "id" : 96,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtklOzqaZcz-aIq4SM" : {
+        "date" : "2020-06-09",
+        "id" : 97,
+        "method" : "GPpay",
+        "name" : "10BagsCement",
+        "price" : "3500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtktgUH4fdj7SYfwQo" : {
+        "date" : "2020-06-12",
+        "id" : 98,
+        "method" : "GPpay",
+        "name" : "3BagsCement",
+        "price" : "1110",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtl-xUs07VwgAW1XLr" : {
+        "date" : "2020-06-13",
+        "id" : 99,
+        "method" : "Cash",
+        "name" : "MLabour",
+        "price" : "18000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtl6MSEylsBtAUEOOC" : {
+        "date" : "2020-06-24",
+        "id" : 100,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "750",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtlLODYs-7-QbZw81n" : {
+        "date" : "2020-06-25",
+        "id" : 101,
+        "method" : "Cash",
+        "name" : "Slab",
+        "price" : "800",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtlSGznZolTtVeO8lP" : {
+        "date" : "2020-06-29",
+        "id" : 102,
+        "method" : "Cash",
+        "name" : "GraniteTilesTesting",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtlgIUgFZS3_RvsaTr" : {
+        "date" : "2020-06-30",
+        "id" : 103,
+        "method" : "GPpay",
+        "name" : "RockDitchi",
+        "price" : "10500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtltTq-W0vMlceRRwr" : {
+        "date" : "2020-07-04",
+        "id" : 104,
+        "method" : "GPpay",
+        "name" : "FlrGranite",
+        "price" : "75000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtm-kymsqk9xIoXfTE" : {
+        "date" : "2020-07-14",
+        "id" : 105,
+        "method" : "Cash",
+        "name" : "GrntLabour",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtm4zL3o0WLoSMaPti" : {
+        "date" : "2020-07-14",
+        "id" : 106,
+        "method" : "Cash",
+        "name" : "BesBasavraj",
+        "price" : "600",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtmCezh5rukG1bVequ" : {
+        "date" : "2020-07-01",
+        "id" : 107,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtmRobHj1dSvifEDPD" : {
+        "date" : "2020-07-17",
+        "id" : 108,
+        "method" : "GPpay",
+        "name" : "40BagsCement",
+        "price" : "14500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtmYuL5uRn4Mf5BHAx" : {
+        "date" : "2020-07-19",
+        "id" : 109,
+        "method" : "GPpay",
+        "name" : "GrntLabour",
+        "price" : "3000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtmg8qqE2tgcCfMXf2" : {
+        "date" : "2020-07-20",
+        "id" : 110,
+        "method" : "Cash",
+        "name" : "GrntLabour",
+        "price" : "5000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtmm_DTiPiI4SdXBBo" : {
+        "date" : "2020-07-23",
+        "id" : 111,
+        "method" : "Online",
+        "name" : "MSand",
+        "price" : "6500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtmseaNyUljW4gJ5Uj" : {
+        "date" : "2020-07-22",
+        "id" : 112,
+        "method" : "GPpay",
+        "name" : "GrntLabour",
+        "price" : "3850",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtn-35yWw-m5rBf05B" : {
+        "date" : "2020-07-27",
+        "id" : 113,
+        "method" : "Cash",
+        "name" : "GrntLabour",
+        "price" : "5150",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtnADKzLLP0pBFGTb5" : {
+        "date" : "2020-07-27",
+        "id" : 114,
+        "method" : "Cash",
+        "name" : "Plumbing",
+        "price" : "2150",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtnG7ySjEcJMKku8Xg" : {
+        "date" : "2020-07-28",
+        "id" : 115,
+        "method" : "Cash",
+        "name" : "PetrolDay",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtnOsLa36nTQphtQWM" : {
+        "date" : "2020-07-28",
+        "id" : 116,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtnTIpUn6rUo4xgy2l" : {
+        "date" : "2020-07-26",
+        "id" : 117,
+        "method" : "Cash",
+        "name" : "GrntLabour",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtnZqT6EE80HFGLLc8" : {
+        "date" : "2020-08-01",
+        "id" : 118,
+        "method" : "Cash",
+        "name" : "GrntLabour",
+        "price" : "5000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtngE_pBA_rpc2aLLj" : {
+        "date" : "2020-08-03",
+        "id" : 119,
+        "method" : "Cash",
+        "name" : "Tiles",
+        "price" : "35000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtnpd5c8kzfYs_P_xi" : {
+        "date" : "2020-08-07",
+        "id" : 120,
+        "method" : "Cash",
+        "name" : "MacRepair",
+        "price" : "800",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtnw6CExbOhbTffrOz" : {
+        "date" : "2020-08-08",
+        "id" : 121,
+        "method" : "Cash",
+        "name" : "GrntLabour",
+        "price" : "12000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtoEntPhKHve7xg4xI" : {
+        "date" : "2020-08-08",
+        "id" : 122,
+        "method" : "Cash",
+        "name" : "MSand",
+        "price" : "3500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtoLYsH2PA0VC2YA2k" : {
+        "date" : "2020-08-11",
+        "id" : 123,
+        "method" : "GPpay",
+        "name" : "10BagsCement",
+        "price" : "3500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtoQDFAkhyZjJI7EY9" : {
+        "date" : "2020-08-11",
+        "id" : 124,
+        "method" : "Cash",
+        "name" : "Electrical",
+        "price" : "70",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtoWT0KLsGErHEPQew" : {
+        "date" : "2020-08-14",
+        "id" : 125,
+        "method" : "GPpay",
+        "name" : "20BagsCement",
+        "price" : "7000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtodS-sJnNjNgGWb7f" : {
+        "date" : "2020-08-15",
+        "id" : 126,
+        "method" : "Cash",
+        "name" : "GrntLabour",
+        "price" : "13000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtoi0MwZLYe5ch_FlH" : {
+        "date" : "2020-08-15",
+        "id" : 127,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtonH8-Zhmt-pytHmw" : {
+        "date" : "2020-08-21",
+        "id" : 128,
+        "method" : "Cash",
+        "name" : "Tiles",
+        "price" : "3200",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtosrEPV8HNzbi-b2X" : {
+        "date" : "2020-08-21",
+        "id" : 129,
+        "method" : "Cash",
+        "name" : "GrntLabour",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtozncUu7odNMc6chu" : {
+        "date" : "2020-08-25",
+        "id" : 130,
+        "method" : "Cash",
+        "name" : "PitLabour",
+        "price" : "15500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtp5HcZD6nNxUkCoaz" : {
+        "date" : "2020-08-25",
+        "id" : 131,
+        "method" : "Cash",
+        "name" : "PipPipes",
+        "price" : "2500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtpCTVdqlPL4FebjQ7" : {
+        "date" : "2020-08-27",
+        "id" : 132,
+        "method" : "Cash",
+        "name" : "GrntLabour",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtpKZ6i899NGwdMa07" : {
+        "date" : "2020-09-01",
+        "id" : 133,
+        "method" : "Cash",
+        "name" : "CheckerPlat",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtpRD67VwQI0CwxeoU" : {
+        "date" : "2020-09-01",
+        "id" : 134,
+        "method" : "Cash",
+        "name" : "GrntLabour",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtpYyUdZMTpIrZTMel" : {
+        "date" : "2020-09-03",
+        "id" : 135,
+        "method" : "Cash",
+        "name" : "ElectricalPipe",
+        "price" : "1850",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtpf9GIadMGvRMsnrD" : {
+        "date" : "2020-09-04",
+        "id" : 136,
+        "method" : "Cash",
+        "name" : "GrntLabour",
+        "price" : "6000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtpjpbZLsnueabrHJl" : {
+        "date" : "2020-09-05",
+        "id" : 137,
+        "method" : "GPpay",
+        "name" : "MLabour",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtpqQUhREdHqutl_yM" : {
+        "date" : "2020-09-09",
+        "id" : 138,
+        "method" : "Cash",
+        "name" : "BescomMeter",
+        "price" : "20000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjtpwsM4OjxJKYQ1TXq" : {
+        "date" : "2020-09-09",
+        "id" : 139,
+        "method" : "Cash",
+        "name" : "BesBasavaraj",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjtq3gygsNAW-ab6xkP" : {
+        "date" : "2020-11-22",
+        "id" : 140,
+        "method" : "Cash",
+        "name" : "PainterRavi",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjwxrGG8s816kEwYX3j" : {
+        "date" : "2021-02-22",
+        "id" : 141,
+        "method" : "Cash",
+        "name" : "Tile Front",
+        "price" : "6000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjwxy_U2y0g8FPu4KNS" : {
+        "date" : "2021-02-22",
+        "id" : 142,
+        "method" : "Cash",
+        "name" : "RoamingEating",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjwyVMamtXXJ8ljdx7Q" : {
+        "date" : "2021-02-22",
+        "id" : 143,
+        "method" : "Cash",
+        "name" : "Tiles",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjwya5ay6dbHtHgXDaJ" : {
+        "date" : "2021-02-22",
+        "id" : 144,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjwylD5Z8di9D1i6Q7M" : {
+        "date" : "2021-02-22",
+        "id" : 145,
+        "method" : "Cash",
+        "name" : "FTileLabour",
+        "price" : "2500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjwyvLEy5ZTRB39-FCP" : {
+        "date" : "2021-02-22",
+        "id" : 146,
+        "method" : "Cash",
+        "name" : "TempDoor",
+        "price" : "1500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjwz2__jsVkIsUBWCi2" : {
+        "date" : "2021-02-22",
+        "id" : 147,
+        "method" : "Cash",
+        "name" : "GroundCable",
+        "price" : "4000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjwzBOxTzUqZjhhLVy3" : {
+        "date" : "2021-02-22",
+        "id" : 148,
+        "method" : "GPpay",
+        "name" : "4BagsCement",
+        "price" : "1400",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjwzK6lASzhs2G2ftxC" : {
+        "date" : "2021-02-22",
+        "id" : 149,
+        "method" : "Cash",
+        "name" : "POP",
+        "price" : "5000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjwzPyx-G2NKKlyIy3G" : {
+        "date" : "2021-02-22",
+        "id" : 150,
+        "method" : "Cash",
+        "name" : "Petrol",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjwzY0rX8iZecOEJ5gb" : {
+        "date" : "2021-03-25",
+        "id" : 151,
+        "method" : "GPpay",
+        "name" : "MLabour",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjwziOaZru0r5_lnyNH" : {
+        "date" : "2021-03-25",
+        "id" : 152,
+        "method" : "GPpay",
+        "name" : "SafetyGrill",
+        "price" : "16500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjwztOTXvJRDIqjSU9s" : {
+        "date" : "2021-03-25",
+        "id" : 153,
+        "method" : "Cash",
+        "name" : "WMaterial",
+        "price" : "66000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx--myyo-hwC5F9r5O" : {
+        "date" : "2021-03-25",
+        "id" : 154,
+        "method" : "GPpay",
+        "name" : "Gate",
+        "price" : "14000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx-95_bp_0MiUFSvKD" : {
+        "date" : "2021-03-25",
+        "id" : 155,
+        "method" : "PhonePe",
+        "name" : "TempDoorLock",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx-HjOVVIMOSHvMjtG" : {
+        "date" : "2021-03-25",
+        "id" : 156,
+        "method" : "Cash",
+        "name" : "WiresH1",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx-Sx5qC6eX8llwX8U" : {
+        "date" : "2021-03-25",
+        "id" : 157,
+        "method" : "Cash",
+        "name" : "ElectricalItems",
+        "price" : "13000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx-_y_5H-7hoe1z0hC" : {
+        "date" : "2021-03-25",
+        "id" : 158,
+        "method" : "Cash",
+        "name" : "ElectricalPole",
+        "price" : "1800",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx-glTRZQSFy5Ek9Up" : {
+        "date" : "2021-03-25",
+        "id" : 159,
+        "method" : "Cash",
+        "name" : "ElectricalMisc",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx-q-SNjL8AzXvNtGH" : {
+        "date" : "2021-03-25",
+        "id" : 160,
+        "method" : "Cash",
+        "name" : "WMaterials",
+        "price" : "81000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx-vYK31ZyEc0VIaVU" : {
+        "date" : "2021-03-25",
+        "id" : 161,
+        "method" : "GPpay",
+        "name" : "WLabour",
+        "price" : "20000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx0Au1mS5N7OeTPQ1_" : {
+        "date" : "2021-04-13",
+        "id" : 162,
+        "method" : "PayTM",
+        "name" : "WLabour",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx0GuUTBTLFv0CKDoH" : {
+        "date" : "2021-04-13",
+        "id" : 163,
+        "method" : "Cash",
+        "name" : "Vidhadhar",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx0KfpYUuEhEGtQlHS" : {
+        "date" : "2021-04-14",
+        "id" : 164,
+        "method" : "Cash",
+        "name" : "Nails",
+        "price" : "100",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx0V84JvNcO4r2eo8V" : {
+        "date" : "2021-04-15",
+        "id" : 165,
+        "method" : "PhonePe",
+        "name" : "Screws",
+        "price" : "120",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx0ZISWbK5H3KkPOCt" : {
+        "date" : "2021-04-15",
+        "id" : 166,
+        "method" : "PhonePe",
+        "name" : "Petrol",
+        "price" : "300",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx1aWVfsadYcOztLah" : {
+        "date" : "2021-04-16",
+        "id" : 167,
+        "method" : "PhonePe",
+        "name" : "HalogenBulb",
+        "price" : "370",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx1jJgNgXSXCu80fIm" : {
+        "date" : "2021-04-17",
+        "id" : 168,
+        "method" : "PhonePe",
+        "name" : "DrawerChannels",
+        "price" : "5000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx2KPitX1qdB4wA2go" : {
+        "date" : "2021-04-17",
+        "id" : 169,
+        "method" : "PayTM",
+        "name" : "Lawyer",
+        "price" : "150",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx2RsqNlKmRVW6R_QG" : {
+        "date" : "2021-04-19",
+        "id" : 170,
+        "method" : "GPpay",
+        "name" : "WLabour",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx2Y3ul-gPM0Y0Blrl" : {
+        "date" : "2021-04-20",
+        "id" : 171,
+        "method" : "Cash",
+        "name" : "PlanApproval",
+        "price" : "4000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx2g83Cdr_jV_Mogbe" : {
+        "date" : "2021-04-21",
+        "id" : 172,
+        "method" : "GPpay",
+        "name" : "GateSpear",
+        "price" : "600",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx2pXxfzS5iWPWUEpY" : {
+        "date" : "2021-04-24",
+        "id" : 173,
+        "method" : "PhonePe",
+        "name" : "6mmSheet",
+        "price" : "3000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx2uZnOdTF2DGXAwMQ" : {
+        "date" : "2021-04-24",
+        "id" : 174,
+        "method" : "Cash",
+        "name" : "Vidhadhar",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx301Aj5qbTOhLxPjQ" : {
+        "date" : "2021-04-22",
+        "id" : 175,
+        "method" : "GPpay",
+        "name" : "WLabour",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx3BqwKIKvOZhwh3wV" : {
+        "date" : "2021-06-18",
+        "id" : 176,
+        "method" : "PhonePe",
+        "name" : "WMaterial",
+        "price" : "17300",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx3JkoKGsj6C2CoV9D" : {
+        "date" : "2021-06-19",
+        "id" : 177,
+        "method" : "PhonePe",
+        "name" : "WMaterial",
+        "price" : "950",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx3l2bJ6ZubkbQv6__" : {
+        "date" : "2021-06-20",
+        "id" : 178,
+        "method" : "GPpay",
+        "name" : "WLabour",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx3pXri8c-IXP868ZZ" : {
+        "date" : "2021-06-27",
+        "id" : 179,
+        "method" : "GPpay",
+        "name" : "WLabour",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx3xGbo-sFgERNsXNj" : {
+        "date" : "2021-07-17",
+        "id" : 180,
+        "method" : "Cash",
+        "name" : "WLabour",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx48Dy8BFM23FKh9hZ" : {
+        "date" : "2021-07-12",
+        "id" : 181,
+        "method" : "PhonePe",
+        "name" : "WHingesLocks",
+        "price" : "16300",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx4IPq3zPnfJBNlNS3" : {
+        "date" : "2021-07-12",
+        "id" : 182,
+        "method" : "Cash",
+        "name" : "WiresH2",
+        "price" : "9000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx4Qgq9f6TkSIFbV-d" : {
+        "date" : "2021-07-12",
+        "id" : 183,
+        "method" : "Cash",
+        "name" : "ElectircalSockets",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx4VrEiq4ny_kkqVn3" : {
+        "date" : "2021-07-12",
+        "id" : 184,
+        "method" : "PayTM",
+        "name" : "Petrol",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx4bBaFc34OV3WJTLk" : {
+        "date" : "2021-07-16",
+        "id" : 185,
+        "method" : "PhonePe",
+        "name" : "WMaterial",
+        "price" : "15000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx4kxzRQykgz90h8mm" : {
+        "date" : "2021-07-24",
+        "id" : 186,
+        "method" : "PhonePe",
+        "name" : "WMaterial",
+        "price" : "20000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx4qaTjpZvpr4bFvN8" : {
+        "date" : "2021-07-24",
+        "id" : 187,
+        "method" : "PhonePe",
+        "name" : "WLabour",
+        "price" : "15000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx5ioL6Hj7GOR1eOfG" : {
+        "date" : "2021-07-25",
+        "id" : 188,
+        "method" : "GPpay",
+        "name" : "WGlass",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx5pi7PeNPuuN5jv31" : {
+        "date" : "2021-07-29",
+        "id" : 189,
+        "method" : "PhonePe",
+        "name" : "WShutters",
+        "price" : "20000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx5xMiKhBtRdRM9nsP" : {
+        "date" : "2021-07-30",
+        "id" : 190,
+        "method" : "GPpay",
+        "name" : "WShutLabour",
+        "price" : "5000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx64ILyk5s2QVGC_0x" : {
+        "date" : "2021-07-31",
+        "id" : 191,
+        "method" : "PhonePe",
+        "name" : "Vidhyadhar",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx6lli-U52Cl6aOcu8" : {
+        "date" : "2021-08-01",
+        "id" : 192,
+        "method" : "PhonePe",
+        "name" : "WLabour",
+        "price" : "15000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx6r0Kjw6R0d8K9WNW" : {
+        "date" : "2021-08-02",
+        "id" : 193,
+        "method" : "PhonePe",
+        "name" : "WMaterial",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx6veCsff6QPTnVpF-" : {
+        "date" : "2021-08-06",
+        "id" : 194,
+        "method" : "PhonePe",
+        "name" : "WLabour",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx6zrpO13WnU7eZjMU" : {
+        "date" : "2021-08-07",
+        "id" : 195,
+        "method" : "GPpay",
+        "name" : "POP",
+        "price" : "15000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx77ZLMQaPZpBgXLQX" : {
+        "date" : "2021-08-07",
+        "id" : 196,
+        "method" : "PhonePe",
+        "name" : "WGlsCut",
+        "price" : "1200",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx7F7yBhSzrX9KY2vV" : {
+        "date" : "2021-08-07",
+        "id" : 197,
+        "method" : "PhonePe",
+        "name" : "FanRods,Chain",
+        "price" : "250",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx7Mg_9WzDx7mqumM3" : {
+        "date" : "2021-08-08",
+        "id" : 198,
+        "method" : "PhonePe",
+        "name" : "Lunch",
+        "price" : "240",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx7Wrxcg7NgGGslt56" : {
+        "date" : "2021-08-09",
+        "id" : 199,
+        "method" : "PhonePe",
+        "name" : "WBellCuts",
+        "price" : "480",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx7eA0DpbQiJIyZj11" : {
+        "date" : "2021-08-10",
+        "id" : 200,
+        "method" : "Cash",
+        "name" : "ScootyTire",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx7ksL0I3jr5r4iB4K" : {
+        "date" : "2021-06-10",
+        "id" : 201,
+        "method" : "GPpay",
+        "name" : "TeaLabour",
+        "price" : "1600",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx7tSLCmRJMp8JVpFy" : {
+        "date" : "2021-08-22",
+        "id" : 202,
+        "method" : "PhonePe",
+        "name" : "TileSump",
+        "price" : "6000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx8-z_AfDRMfs2vhwM" : {
+        "date" : "2021-08-23",
+        "id" : 203,
+        "method" : "Cash",
+        "name" : "Petrol",
+        "price" : "600",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx8DugJigPY215FT3b" : {
+        "date" : "2021-08-22",
+        "id" : 204,
+        "method" : "PhonePe",
+        "name" : "WDoors",
+        "price" : "45000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx8INQLyAjMi9Ohvlc" : {
+        "date" : "2021-08-18",
+        "id" : 205,
+        "method" : "GPpay",
+        "name" : "ECDocs",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx8Rap8jia_euwyBv3" : {
+        "date" : "2021-08-25",
+        "id" : 206,
+        "method" : "PhonePe",
+        "name" : "PdropIComode",
+        "price" : "1250",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx8YD_rkPd6iyQjplC" : {
+        "date" : "2021-08-25",
+        "id" : 207,
+        "method" : "GPpay",
+        "name" : "POP",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx8eDSQfzGENx-xEVA" : {
+        "date" : "2021-08-27",
+        "id" : 208,
+        "method" : "PhonePe",
+        "name" : "ROFLCement",
+        "price" : "300",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx8kcCCDSgeJJtoCBz" : {
+        "date" : "2021-08-27",
+        "id" : 209,
+        "method" : "GPpay",
+        "name" : "LoanComm",
+        "price" : "15000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx8w_ST03p2otDprKj" : {
+        "date" : "2021-08-27",
+        "id" : 210,
+        "method" : "PhonePe",
+        "name" : "BescomMeter",
+        "price" : "30000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx98RjWMVOPVfBhdRC" : {
+        "date" : "2021-08-28",
+        "id" : 211,
+        "method" : "PhonePe",
+        "name" : "WShtLabour",
+        "price" : "5000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx9WrBZbDBLB8YWEmO" : {
+        "date" : "2021-08-28",
+        "id" : 212,
+        "method" : "PhonePe",
+        "name" : "VaaskalNails",
+        "price" : "300",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx9dsoHFywIavjUtR3" : {
+        "date" : "2021-08-29",
+        "id" : 213,
+        "method" : "Cash",
+        "name" : "BathroomCemt",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mjx9yRcU1wRMcR7Z_sA" : {
+        "date" : "2020-11-26",
+        "id" : 214,
+        "method" : "Cash",
+        "name" : "PainterRavi",
+        "price" : "15000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxA4GBAIim2OdFzisC" : {
+        "date" : "2021-08-30",
+        "id" : 215,
+        "method" : "GPpay",
+        "name" : "PainterRavi",
+        "price" : "15000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxACCh71Jqdc-CiIh1" : {
+        "date" : "2021-08-31",
+        "id" : 216,
+        "method" : "PhonePe",
+        "name" : "FlexibleCable",
+        "price" : "170",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxAJmTS_JwvkA9HMDR" : {
+        "date" : "2021-08-31",
+        "id" : 217,
+        "method" : "PhonePe",
+        "name" : "PVCDoors",
+        "price" : "5200",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxA_jBOmJmz3NCBu7N" : {
+        "date" : "2021-08-31",
+        "id" : 218,
+        "method" : "PhonePe",
+        "name" : "800Docs",
+        "price" : "300",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxAg9BVvJ8zdBqZWDe" : {
+        "date" : "2021-09-01",
+        "id" : 219,
+        "method" : "PhonePe",
+        "name" : "AluminumCable",
+        "price" : "680",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxAnEYoK_11Lr3BkrY" : {
+        "date" : "2021-09-02",
+        "id" : 220,
+        "method" : "PhonePe",
+        "name" : "ROFLScrubbe",
+        "price" : "580",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxAyUZiNzXPUQxcB-D" : {
+        "date" : "2021-09-02",
+        "id" : 221,
+        "method" : "PhonePe",
+        "name" : "Tiles",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxB6TJ154pqZTtUu1u" : {
+        "date" : "2021-09-03",
+        "id" : 222,
+        "method" : "Cash",
+        "name" : "BesLineMan",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxBCJRKoiTDf5OmIB4" : {
+        "date" : "2021-09-04",
+        "id" : 223,
+        "method" : "PhonePe",
+        "name" : "PainterRavi",
+        "price" : "5000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxBI3BgVrF1CVmXD9_" : {
+        "date" : "2021-09-05",
+        "id" : 224,
+        "method" : "GPpay",
+        "name" : "TilesLabour",
+        "price" : "3150",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxBNgRxd_eAmQX9x7z" : {
+        "date" : "2021-09-04",
+        "id" : 225,
+        "method" : "PhonePe",
+        "name" : "EuropaLocks",
+        "price" : "3000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxBTpBVucZNNW5V0Pi" : {
+        "date" : "2021-09-04",
+        "id" : 226,
+        "method" : "PhonePe",
+        "name" : "Bells",
+        "price" : "680",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxBYag9d12cKLVnfFM" : {
+        "date" : "2021-09-04",
+        "id" : 227,
+        "method" : "PhonePe",
+        "name" : "LEDLights",
+        "price" : "4500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxBdBRNpB8W9jEFdIE" : {
+        "date" : "2021-09-07",
+        "id" : 228,
+        "method" : "PhonePe",
+        "name" : "WMaterial",
+        "price" : "8500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxBjF-D1kOEIaYHB4b" : {
+        "date" : "2021-09-15",
+        "id" : 229,
+        "method" : "PhonePe",
+        "name" : "3BagsCement",
+        "price" : "1050",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxBo__9LMvKAvu6gW9" : {
+        "date" : "2021-09-18",
+        "id" : 230,
+        "method" : "PayTM",
+        "name" : "Bulbs",
+        "price" : "150",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxBtYZbDxuQXVADKPa" : {
+        "date" : "2021-09-18",
+        "id" : 231,
+        "method" : "PhonePe",
+        "name" : "Petrol",
+        "price" : "100",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxBxkSNINjTyZxKpLb" : {
+        "date" : "2021-09-18",
+        "id" : 232,
+        "method" : "PhonePe",
+        "name" : "PainterRavi",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxCBqgHfliewOOxTEe" : {
+        "date" : "2021-09-18",
+        "id" : 233,
+        "method" : "GPpay",
+        "name" : "WaterTank",
+        "price" : "350",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjxHan_17Wh18RQIrqq" : {
+        "date" : "2020-05-20",
+        "id" : 234,
+        "method" : "Online",
+        "name" : "MSand",
+        "price" : "106000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MjygmPTxR6NBFkMIzZY" : {
+        "date" : "2021-09-19",
+        "id" : 235,
+        "method" : "Cash",
+        "name" : "Vidhyadhar",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mk0xoYswTiCyMMe-ssr" : {
+        "date" : "2021-09-20",
+        "id" : 236,
+        "method" : "PhonePe",
+        "name" : "LoanComm",
+        "price" : "5000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MkKvIqooxyEt-cTViWw" : {
+        "date" : "2021-09-23",
+        "id" : 237,
+        "method" : "Cash",
+        "name" : "Petrol",
+        "price" : "150",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MkMpe5Uz-hDCVvKUQSQ" : {
+        "date" : "2021-09-24",
+        "id" : 238,
+        "method" : "GPpay",
+        "name" : "WallTexture",
+        "price" : "6000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mkk4crWtZ40TT1go8z-" : {
+        "date" : "2021-09-29",
+        "id" : 239,
+        "method" : "PayTM",
+        "name" : "PainterRavi",
+        "price" : "5000",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-MkufvZ65ohGd3TlO-b3" : {
+        "date" : "2021-09-30",
+        "id" : 240,
+        "method" : "PhonePe",
+        "name" : "TaxReceips",
+        "price" : "800",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Mkug5-xgNHYzKSIiBfc" : {
+        "date" : "2021-09-30",
+        "id" : 241,
+        "method" : "PhonePe",
+        "name" : "BPlan",
+        "price" : "1300",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Ml0UDidIqKJxYTVPJbX" : {
+        "date" : "2021-10-02",
+        "id" : 242,
+        "method" : "PhonePe",
+        "name" : "WhlAcid",
+        "price" : "60",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Ml0UJveYnGLa8IvH8yO" : {
+        "date" : "2021-10-02",
+        "id" : 243,
+        "method" : "GPpay",
+        "name" : "Scrubs",
+        "price" : "58",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      },
+      "-Ml0U_lo1X47DUabNBrS" : {
+        "date" : "2021-10-02",
+        "id" : 244,
+        "method" : "PhonePe",
+        "name" : "Petrol",
+        "price" : "122",
+        "type" : "expense",
+        "user_id" : "ZRXVlNmHxMX7vH0c016rVrF1u2J2"
+      }
+    },
+    "aFnppnHa43Xd1unKFqBHVGZ15GH2" : {
+      "-Mj4WcqRrzi4gGOnKks6" : {
+        "id" : 1,
+        "name" : "ShopAdvance",
+        "price" : "50000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4WzpaolzziIt7PW_y" : {
+        "id" : 2,
+        "name" : "GSTRegistration",
+        "price" : "8000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4X7h5oYW_l6rDH3Cc" : {
+        "id" : 3,
+        "name" : "UdhyogAadhaar",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4XBpxOo-fZAUhnrGd" : {
+        "id" : 4,
+        "name" : "MSME",
+        "price" : "4500",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4XJUKjeVgaIeRSmTD" : {
+        "id" : 5,
+        "name" : "RentalAgreement",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4XQBGRxSDQipfXnAF" : {
+        "id" : 6,
+        "name" : "WeldingRods+Glass+Tape",
+        "price" : "500",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4XUgx3mM9rlLkl07R" : {
+        "id" : 7,
+        "name" : "RentJul2020",
+        "price" : "7500",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4XaGnsXxBWmdOMhjn" : {
+        "id" : 8,
+        "name" : "FlowerStandMaterial",
+        "price" : "7000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4Xg3aYP3CeHR9UixF" : {
+        "id" : 9,
+        "name" : "BescomJulBill",
+        "price" : "770",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4XpEUDpOTk9jblhWY" : {
+        "id" : 10,
+        "name" : "BoardPainting",
+        "price" : "2000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4XvMyoopKAWrvVTPU" : {
+        "id" : 11,
+        "name" : "HondaActivaAdvance",
+        "price" : "10000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4br1-z4KAkdv44n2o" : {
+        "id" : 12,
+        "name" : "WeldingMachine",
+        "price" : "9500",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4cDxve9euxkvMLLPv" : {
+        "id" : 13,
+        "name" : "DewaltCuttingMachineBlades",
+        "price" : "4000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4cJ69QnfNioxxpT-4" : {
+        "id" : 14,
+        "name" : "WeldCables+Connectors",
+        "price" : "3150",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4cQClYcKkWcbnI3sf" : {
+        "id" : 15,
+        "name" : "VistingCards",
+        "price" : "1000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4caiyPrQMItbOnxMg" : {
+        "id" : 16,
+        "name" : "NocLicense",
+        "price" : "6000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4cf8eqgkaeZuZWy9Q" : {
+        "id" : 17,
+        "name" : "LT5PowerConnection",
+        "price" : "42000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4d_wIXt-ApbI1lxhc" : {
+        "id" : 18,
+        "name" : "ObulReddyMaterial",
+        "price" : "28000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4dgk-wPJgRCOoimGv" : {
+        "id" : 19,
+        "name" : "SwiftCarAdvance",
+        "price" : "5000",
+        "type" : "deposit",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4mW_UfHkxLbJcKv9s" : {
+        "id" : 20,
+        "name" : "HPGSite21Gate",
+        "price" : "10000",
+        "type" : "deposit",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4mckwd40NNU9uPC4F" : {
+        "id" : 21,
+        "name" : "HPGSite21SafetyGrill",
+        "price" : "10000",
+        "type" : "deposit",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4msjBO4LgN9GaEcQM" : {
+        "id" : 22,
+        "name" : "GSTLateFees",
+        "price" : "18000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-Mj4nBbb-xMy1BsWkFzQ" : {
+        "id" : 23,
+        "name" : "Welding+Griding+DrillMachine",
+        "price" : "13000",
+        "type" : "expense",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-MjNEf-SJCPHzfR2jzq3" : {
+        "id" : 24,
+        "name" : "PillarDrillingMarchine",
+        "price" : "6500",
+        "type" : "deposit",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      },
+      "-MjNEoDW4Y3esftkTw0t" : {
+        "id" : 25,
+        "name" : "WorkDie+WeldingMachine",
+        "price" : "15000",
+        "type" : "deposit",
+        "user_id" : "aFnppnHa43Xd1unKFqBHVGZ15GH2"
+      }
+    }
+  }
+}

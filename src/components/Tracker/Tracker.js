@@ -1,10 +1,7 @@
-import React, { Component
-
-} from 'react';
+import React, { Component } from 'react';
 import './Tracker.css';
 import fire from '../../config/Fire';
 import Transaction from './Transaction/Transaction';
-
 class Tracker extends Component {
 
     state = {
@@ -29,7 +26,7 @@ class Tracker extends Component {
         });
     }
 
-    // add transaction
+    
     addNewTransaction = () => {
         const {dated, transactionName, transactionType, paymentType, price, currentUID, money} = this.state;
 
@@ -113,7 +110,7 @@ class Tracker extends Component {
             <div className="trackerBlock">
                 <div className="welcome">
                     <span>Hi, {currentUser.displayName}!</span>
-                    <button className="exit" onClick={this.logout}>Exit</button>
+                    <button className="exit" onClick={this.logout}>Logout</button>
                 </div>
                 <div className="totalMoney">Rs.{this.state.money}</div>
 
@@ -167,9 +164,10 @@ class Tracker extends Component {
                         <button onClick={() => this.addNewTransaction()} className="addTransaction">+ Add Transaction</button>
                     </div>
                 </div>
-                
+
+
                 <div className="latestTransactions">
-                    <p>Latest Transactions</p>
+                    <p>All Finance Transactions</p>
                     <ul>
                         {
                             Object.keys(this.state.transactions).map((id) => (

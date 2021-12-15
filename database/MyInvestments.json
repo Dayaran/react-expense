@@ -1,0 +1,111 @@
+{
+  "-Mj4T4IxP1PC7qT7L4-B" : {
+    "id" : 1,
+    "name" : "HNo6Money",
+    "price" : "1300000",
+    "type" : "deposit",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-Mj4Tmoxl8eB1E15Yd2j" : {
+    "id" : 3,
+    "name" : "BuilderPrabhakar",
+    "price" : "1200000",
+    "type" : "deposit",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-Mj4U2VD7kk3MLRxkoGY" : {
+    "id" : 4,
+    "name" : "MySalaries",
+    "price" : "3200000",
+    "type" : "deposit",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-Mj4UA1AzSUXJxPzJABD" : {
+    "id" : 5,
+    "name" : "Abhishek",
+    "price" : "500000",
+    "type" : "expense",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-Mj4UDC2ISTjcRCCP5xb" : {
+    "id" : 6,
+    "name" : "SwiftCar",
+    "price" : "250000",
+    "type" : "expense",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-Mj4UHreFXfgOYSjds1D" : {
+    "id" : 7,
+    "name" : "HomeExpenses",
+    "price" : "300000",
+    "type" : "expense",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-Mj4h9I6RSj58H2RglLY" : {
+    "id" : 8,
+    "name" : "GoldLoanClosure",
+    "price" : "165000",
+    "type" : "expense",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-Mj4qtgim7yEoz3T-_9e" : {
+    "id" : 9,
+    "name" : "PrabhakarInterest2020",
+    "price" : "250000",
+    "type" : "deposit",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-Mj4r2nzKNyQiT7FayYb" : {
+    "id" : 10,
+    "name" : "SharesBuying",
+    "price" : "80000",
+    "type" : "expense",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-Mj4rAjTfRXYi3hef4_F" : {
+    "id" : 11,
+    "name" : "BBal",
+    "price" : "780000",
+    "type" : "expense",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-MjFKcFCd4kCW9A-82L7" : {
+    "id" : 12,
+    "name" : "FabricationCapital",
+    "price" : "200000",
+    "type" : "expense",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-MjFLrf1HrakPrp1AmWH" : {
+    "id" : 13,
+    "name" : "SaleUse900sqft",
+    "price" : "50000",
+    "type" : "expense",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-MjNDcaDbOMP6oYNpjbW" : {
+    "id" : 14,
+    "name" : "NandishLoanReturn",
+    "price" : "100000",
+    "type" : "deposit",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-Mj_7C9c-YAYh0dehp3g" : {
+    "date" : "2021-03-08",
+    "id" : 15,
+    "method" : "Cash",
+    "name" : "SeenappaInterest",
+    "price" : "100000",
+    "type" : "deposit",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  },
+  "-Mj_E3vxr9Qoghuy4A5Q" : {
+    "date" : "2021-07-06",
+    "id" : 15,
+    "method" : "Online",
+    "name" : "MedicalMHB",
+    "price" : "90000",
+    "type" : "expense",
+    "user_id" : "Ew3XaqJmQEeQkYR7KV8xUJia8652"
+  }
+}

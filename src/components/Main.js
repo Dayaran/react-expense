@@ -5,6 +5,9 @@ import Login from './Forms/Login';
 import Register from './Forms/Register';
 import Spinner from '../assets/loader.gif';
 import Tracker from './Tracker/Tracker';
+//import Todo from './Todo/Todo';
+//import Materials from './Material/Materials';
+
 
 export default class Main extends Component {
     state = {
@@ -58,7 +61,7 @@ export default class Main extends Component {
                         )
                       }
                     </div>
-                  ) : (<Tracker />)}
+                  ) : (<Tracker />)  }
             </div>
         );
     }
